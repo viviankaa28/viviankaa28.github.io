@@ -4,7 +4,7 @@
   "shortName": "Vivian A. Doe",
   "role": "Ph.D. Student · Graduate Teaching Assistant",
   "affiliation": "North Dakota State University",
-  "tagline": "Rhetoric and culture scholar, theatre artist and writing teacher, studying African digital activism and mediated communication.",
+  "tagline": "Theatre artist, media and communication researcher and writing teacher, studying how theatre, social media and digital activism give African citizens, and especially women, a public voice.",
   "credentials": "M.F.A., Drama and Film Studies",
   "status": "Open to research and teaching collaboration",
   "location": "Fargo, North Dakota, USA",
@@ -14,12 +14,16 @@
   "orcid": "https://orcid.org/0000-0001-5411-8715",
   "scholar": "https://scholar.google.com/citations?user=iqEDDNYAAAAJ&hl=en",
   "photo": "",
-  "bio": "I am a Ph.D. student in Rhetoric, Theory and Culture at North Dakota State University, where I also teach first-year college composition as a Graduate Teaching Assistant.\n\nI trained in theatre first. I hold a Bachelor of Arts in Theatre Arts from the University of Education, Winneba, and a Master of Fine Arts in Drama and Film Studies from The Central Academy of Drama in Beijing, where I also earned a certificate in Chinese language studies. I have taught drama, communication skills and African studies in Ghana and China, and directed and coordinated student productions.\n\nMy current research looks at African digital activism and mediated communication. I am a member of the Coalition of Feminist Scholars in the History of Rhetoric and Composition.",
-  "interests": "Rhetoric and culture, African digital activism, Mediated communication, Theatre and performance, Drama education, First-year writing",
+  "bio": "I am a Ph.D. student in Rhetoric, Theory and Culture at North Dakota State University, where I also teach First Year College Composition as a Graduate Teaching Assistant.\n\nMy path into scholarship began on the stage. I trained in theatre at the University of Education, Winneba, and earned a Master of Fine Arts in Drama and Film Studies in the Department of Directing at The Central Academy of Drama in Beijing. Along the way I have taught drama, communication skills and African studies in Ghana and China, directed student productions, and led the Ghana Embassy cultural troupe in China.\n\nMy research, published with the School of Media and Communication at Shanghai Jiao Tong University, asks how ordinary people find and use a public voice: how community theatre turns audiences into active citizens in Ghana, how social media shapes democracy and freedom of expression, how women journalists navigate newsroom patriarchy, and how online communities share health information. At NDSU I am extending this work to rhetoric and African digital activism. I am a member of the Coalition of Feminist Scholars in the History of Rhetoric and Composition.",
+  "interests": "Rhetoric and culture, Community and applied theatre, African digital activism, Social media and civic participation, Gender and media, Online behaviour, Health communication, Drama education, First-year writing",
   "reviewing": "",
   "languages": "English, Mandarin Chinese"
  },
  "news": [
+  {
+   "date": "2026",
+   "text": "“Women and Patriarchy: How Female Journalists in North Central Nigeria Are Surviving Newsroom Discrimination” published in Women’s Studies in Communication."
+  },
   {
    "date": "Aug 2026",
    "text": "Began teaching First Year College Composition as a Graduate Teaching Assistant at North Dakota State University."
@@ -27,6 +31,14 @@
   {
    "date": "2026",
    "text": "Started the Ph.D. in Rhetoric, Theory and Culture at North Dakota State University."
+  },
+  {
+   "date": "Oct 2025",
+   "text": "“Citizens, not spectators: How community theatre enhances civic participation in Ghana” published online in the South African Theatre Journal."
+  },
+  {
+   "date": "Jul 2025",
+   "text": "Study of the “Ask the Paediatricians” Facebook group published in the Howard Journal of Communications."
   },
   {
    "date": "2026",
@@ -46,7 +58,7 @@
    "institution": "The Central Academy of Drama",
    "location": "Beijing, China",
    "dates": "2018 – 2021",
-   "details": ""
+   "details": "Department of Directing"
   },
   {
    "degree": "Certificate in Chinese Language Studies",
@@ -133,8 +145,85 @@
    "details": "Events planning.\nManaged social media pages.\nAssisted with bookkeeping."
   }
  ],
- "projects": [],
+ "projects": [
+  {
+   "title": "Community Theatre and Civic Participation in Ghana",
+   "sponsor": "With Berlinda Ekua Dede (University of Cape Coast)",
+   "dates": "2024 – 2025",
+   "methods": "",
+   "details": "Examines how community theatre turns audiences from spectators into active citizens.\nPublished in the South African Theatre Journal, 37(2)."
+  },
+  {
+   "title": "Social Media, Democracy and Freedom of Expression",
+   "sponsor": "With John Demuyakor",
+   "dates": "2022",
+   "methods": "Qualitative thematic analysis",
+   "details": "Examines how social media use affects democracy and freedom of expression among citizens in Ghana.\nPublished in the International Journal of Political Science and Governance, 4(1)."
+  },
+  {
+   "title": "Women, Media and Newsroom Equity",
+   "sponsor": "With James Dada Mohammed and Nnanyelugo Okoro",
+   "dates": "2026",
+   "methods": "",
+   "details": "Studies how female journalists in North Central Nigeria survive newsroom discrimination and patriarchy.\nPublished in Women’s Studies in Communication, 49(4)."
+  },
+  {
+   "title": "Digital Communication in Health and Education",
+   "sponsor": "With colleagues in Ghana and Nigeria",
+   "dates": "2024 – 2025",
+   "methods": "UTAUT model",
+   "details": "Studies the “Ask the Paediatricians” Facebook group as a source of childcare health information (Howard Journal of Communications, 2025).\nModels Ghanaian university teachers’ intentions to use digital technologies (Journal of Intelligent Communication, 2024).\nExplores alternative discipline methods in Ghanaian basic schools (ShodhVichar, 2025)."
+  }
+ ],
  "publications": [
+  {
+   "type": "journal",
+   "authors": "Mohammed, J. D., Okoro, N., & Doe, V. A.",
+   "year": "2026",
+   "title": "Women and patriarchy: How female journalists in North Central Nigeria are surviving newsroom discrimination",
+   "venue": "Women’s Studies in Communication, 49(4), 665–682",
+   "doi": "10.1080/07491409.2026.2670507"
+  },
+  {
+   "type": "journal",
+   "authors": "Mohammed, J. D., Agbana, F. O., & Doe, V. A.",
+   "year": "2025",
+   "title": "Social media and health information: The effectiveness of the “Ask the Paediatricians” Facebook group for childcare",
+   "venue": "Howard Journal of Communications, 36(4), 418–437",
+   "doi": "10.1080/10646175.2025.2531213"
+  },
+  {
+   "type": "journal",
+   "authors": "Oti, R., & Doe, V. A.",
+   "year": "2025",
+   "title": "Exploring the effectiveness of alternative discipline methods in Ghanaian basic schools: A case study of selected basic schools within the Greater Accra Region, Ghana",
+   "venue": "ShodhVichar: Journal of Media and Mass Communication, 1(1), 11–34",
+   "doi": "10.29121/shodhvichar.v1.i1.2025.7"
+  },
+  {
+   "type": "journal",
+   "authors": "Doe, V. A., & Dede, B. E.",
+   "year": "2024",
+   "title": "Citizens, not spectators: How community theatre enhances civic participation in Ghana",
+   "venue": "South African Theatre Journal, 37(2), 142–156",
+   "doi": "10.1080/10137548.2025.2563510"
+  },
+  {
+   "type": "journal",
+   "authors": "Demuyakor, J., Doe, V. A., Tachie-Djan, C., Bhatti, M. A., & Avenyo, S. J.",
+   "year": "2024",
+   "title": "Predicting university teachers’ behavior intentions toward digital technologies: An extension of the Unified Theory of Acceptance and Use of Technology Model (UTAUT)",
+   "venue": "Journal of Intelligent Communication, 3(1)",
+   "doi": "10.54963/jic.v3i1.208"
+  },
+  {
+   "type": "journal",
+   "authors": "Demuyakor, J., & Doe, V. A.",
+   "year": "2022",
+   "title": "Social media, democracy, and freedom of expression: Some evidence from Ghana",
+   "venue": "International Journal of Political Science and Governance, 4(1), 87–94",
+   "doi": "10.33545/26646021.2022.v4.i1b.140"
+  },
   {
    "type": "conference",
    "authors": "Doe, V. A.",
@@ -247,6 +336,10 @@
   {
    "category": "Communication & Media",
    "items": "Social media management, Events planning, Chinese–English translation"
+  },
+  {
+   "category": "Research",
+   "items": "Qualitative thematic analysis, Survey research and technology-acceptance modelling (UTAUT), Academic writing"
   }
  ]
 }
